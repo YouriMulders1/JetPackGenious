@@ -1,6 +1,6 @@
 # **JetPack Genious**
 
-Math Tube Challenge is een educatieve Unity-game waarin spelers wiskundige sommen oplossen door naar de juiste tube te navigeren. De game biedt eindeloze sommen en een uitdagende gameplay waarbij snelheid en nauwkeurigheid essentieel zijn!
+JetPackGenious is een educatieve Unity-game waarin spelers wiskundige sommen oplossen door naar de juiste tube te navigeren. De game biedt eindeloze sommen en een uitdagende gameplay waarbij snelheid en nauwkeurigheid essentieel zijn!
 
 ---
 
